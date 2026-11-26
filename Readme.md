@@ -2,4 +2,4 @@
 
 This is my Git Lab project.
 
-![Project Image](image.png)
+![Project Image](image.jpg)
